@@ -28,13 +28,13 @@
 
 ## 📊 GitHub Progress
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=CalinStefanMiertescu&show_icons=true&theme=radical) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CalinStefanMiertescu&layout=compact&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=CalinGraphics&show_icons=true&theme=radical) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CalinStefanMiertescu&layout=compact&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=CalinStefanMiertescu&theme=radical&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com?user=CalinGraphics&theme=radical&hide_border=false)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=CalinStefanMiertescu&theme=radical&margin-w=10&margin-h=10)
+![trophy](https://github-profile-trophy.vercel.app/?username=CalinGraphics&theme=radical&margin-w=10&margin-h=10)
 
-![Profile views](https://komarev.com/ghpvc/?username=CalinStefanMiertescu&label=Profile%20Views&color=blue&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=CalinGraphics&label=Profile%20Views&color=blue&style=flat)
 
 ---
 
