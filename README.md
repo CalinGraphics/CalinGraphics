@@ -28,7 +28,7 @@
 
 ## 📊 GitHub Progress
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=CalinGraphics&show_icons=true&theme=radical) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CalinStefanMiertescu&layout=compact&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=CalinGraphics&show_icons=true&theme=radical) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CalinGraphics&layout=compact&theme=radical)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=CalinGraphics&theme=radical&hide_border=false)
 
