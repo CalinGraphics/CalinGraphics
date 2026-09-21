@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.png" alt="Călin Miertescu" width="100%" />
+<img src="assets/CALIN.png" alt="Călin Miertescu" width="100%" />
 
 <br/><br/>
 
