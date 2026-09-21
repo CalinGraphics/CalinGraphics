@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="assets/banner.png" alt="Călin — AI · Software · Football Graphics" width="100%" />
+<img src="assets/banner.png" alt="Călin Miertescu" width="100%" />
 
 <br/><br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=22&duration=3500&pause=1200&color=C6FF00&background=0D0D0D00&center=true&vCenter=true&width=650&lines=MSc+Student+in+Artificial+Intelligence;Founder+%40+Framework+Society;Building+Calin+Graphics+%E2%9A%BD)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=22&duration=3500&pause=1200&color=C6FF00&background=0D0D0D00&center=true&vCenter=true&width=650&lines=MSc+Student+in+Artificial+Intelligence;Founder+Framework+Society)](https://git.io/typing-svg)
 
 <a href="https://www.linkedin.com/in/calinstefan14"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0D0D0D?style=flat-square&logo=linkedin&logoColor=C6FF00"/></a>
 <a href="https://www.instagram.com/calingraphics/"><img alt="Instagram" src="https://img.shields.io/badge/Calin_Graphics-0D0D0D?style=flat-square&logo=instagram&logoColor=C6FF00"/></a>
@@ -18,13 +18,12 @@ MSc student in **Artificial Intelligence & Applied Computing** at the University
 
 <br/>
 
-### Building
+### Some of my projects
 
 - **VitaBalance** — explainable, rule-based nutrition recommendation system (bachelor's thesis)
 - **DeepWork** — Kotlin/Jetpack Compose focus app with a Ktor WebSocket desktop companion
 - **MedFlow AI** — health-tech app built in 48h at Craiova Hackathon 2025
 - **TechStore** — full-stack e-commerce, Next.js + FastAPI
-- **Calin Graphics** — cinematic sports editorials, club posters and covers for Romanian football, worked start-to-finish through AI generation, inpainting and Photoshop compositing
 
 <br/>
 
